@@ -1,8 +1,6 @@
 # TurnB
 
-**AI-powered business and data analytics company in India and the UAE.**
-
-We combine consulting and advanced analytics to help businesses make data-driven decisions.
+TurnB is a leading provider of business analytics, AI solutions, and consulting services in India. With deep experience in AI-driven data analytics and advanced business intelligence, we help organizations solve complex business challenges, unlock actionable insights, and accelerate growth. We specialize in industries such as Technology, Telecom, Pharma, Retail, Real Estate, and BFSI, serving Fortune 500 companies and global enterprises. Through a unique hybrid approach that combines traditional consulting with AI-powered analytics, we deliver cutting-edge solutions across all phases of analytics—Descriptive, Diagnostic, Predictive, and Prescriptive—to improve operational efficiency and drive digital transformation
 
 ## What we do
 - Predictive and pricing analytics
