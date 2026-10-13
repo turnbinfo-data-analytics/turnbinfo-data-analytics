@@ -1,16 +1,17 @@
-## Hi there 👋
+# TurnB
 
-<!--
-**turnbinfo-data-analytics/turnbinfo-data-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-powered business and data analytics company in India and the UAE.**
 
-Here are some ideas to get you started:
+We combine consulting and advanced analytics to help businesses make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we do
+- Predictive and pricing analytics
+- HR and customer analytics
+- Retail analytics (ScanB)
+- Custom BI dashboards and AI solutions
+
+ISO 27001 certified | 300+ projects | Offices in Kochi (India) and UAE
+
+🌐 Website: https://www.turnb.com
+💼 LinkedIn: https://www.linkedin.com/company/turnb/
+📍 Level 3, Oberon Mall, NH Bye Pass, Padivattom, Edappally, Kochi, Kerala 682024
